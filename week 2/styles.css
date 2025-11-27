@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.container {
+  background: red;
+  height: 300px;
+  width: 300px;
+  border: 8px solid;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background: yellow;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  align-content: center;
+}
