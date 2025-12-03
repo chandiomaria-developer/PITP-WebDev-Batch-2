@@ -1,0 +1,22 @@
+:root {
+    --primary-gold:#D4AF37;
+    --secondary-gold:#F4C430;
+    --bg-black: #0f0f0f;
+    --bg-dark-gray:#1a1a1a;
+    --text-white: #ffffff;
+    --text-gray: #cccccc;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    front-family: 'segoe UI',Tahoma, Geneva,Verdana, sans-serif; 
+}
+body{
+    background-color: var(--bg-black);
+    color: var(--text-white);
+    line-height: 1.6;
+}
+   a {text-decoration:none; color: inherit;transition: 0.3s;}
+   ul 
